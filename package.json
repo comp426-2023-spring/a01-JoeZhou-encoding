@@ -10,6 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/comp426-2023-spring/a01-JoeZhou-encoding.git"
   },
+  "keywords": [
+    "web",
+    "server",
+    "port",
+    "node",
+    "fs",
+    "args",
+    "http"
+  ],
   "author": "JoeZhou-encoding",
   "license": "GPL-3.0-or-later",
   "bugs": {
